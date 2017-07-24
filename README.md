@@ -5,7 +5,7 @@ This is the official GitHub channel to make feature request, bug reports of Insi
 Feel free to open issues in this repository to let us know anything about [Insight.io](https://insight.io) products, including:
 
 * [Insight.io](https://insight.io) Online Code Browsing
-* [Insight.io for GitHub] Chrome Extension
+* [Insight.io for GitHub](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh) Chrome Extension
 * more are comming
 
 You can also reach us through the following channels:
